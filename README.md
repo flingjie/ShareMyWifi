@@ -1,6 +1,6 @@
 # ShareMyWifi
 
-share my mac wifi
+share my wifi (mac support only now)
 
 1. use airport to get the SSID of wifi current used.
 
